@@ -4,6 +4,12 @@ Production brief for HowTechMoves' next tier of premium vertical video explainer
 (Reels, Shorts, TikTok) — ten concepts, each with a logline, a why-it-earns-a-slot
 rationale, a numbered shot sequence, on-screen text, sound direction and a call to action.
 
+## Preview
+
+![Cover page](preview-cover.png)
+
+![Concept 01 — How Packets Find Their Way](preview-concept-01.png)
+
 ## Files
 
 | File | Description |
